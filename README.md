@@ -7,6 +7,8 @@ https://truyenhinh.click/mytv803
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
 https://truyenhinh.click/mytv804
 
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 29
+
 #EXTINF:-1 tvg-id="on1" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON1.jpg", ON 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/onplus/ONSPORT1/sc-gaFEQQ/m20_index.m3u8
