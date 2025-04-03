@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+
+#EXTINF:-1 group-title="U17 Châu Á 2025" tvg-logo="https://static.bongda24h.vn/medias/original/2025/04/02/z6465356681609_e16a1b636f57989de6413dd26a7025f8-0204100747.jpg", U17 Uzbekistan vs U17 Thái Lan
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/5563
+#EXTINF:-1 group-title="U17 Châu Á 2025" tvg-logo="https://static.bongda24h.vn/medias/original/2025/04/02/nhan-dinh-bong-da-du-doan-u17-saudi-arabia-vs-u17-trung-quoc-hom-nay-0204064712.jpg", U17 Saudi Arabia vs U17 Trung Quốc
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305950
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
