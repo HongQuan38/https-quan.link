@@ -81,7 +81,7 @@ https://tv.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
 https://tv.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk4" group-title="Sự kiện TV360" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/tv360.sk4/KenhCoBan",TV360+ 4
 https://tv.TruyenHinh.Click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk5" group-title="Sự kiện TV360" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/tv360.sk5/KenhCoBan",TV360+ 5
+#EXTINF:-1 group-title="Sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
 https://tv.TruyenHinh.Click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk6" group-title="Sự kiện TV360" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/tv360.sk6/KenhCoBan",TV360+ 6
 https://tv.TruyenHinh.Click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
