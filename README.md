@@ -101,3 +101,67 @@ https://truyenhinh.click/ksport1hd
 https://truyenhinh.click/ksport2hd
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
 https://truyenhinh.click/kkidshd
+
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+udp://@225.1.1.2:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+udp://@225.1.4.199:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+udp://@225.1.4.200:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+udp://@225.1.2.243:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 1
+udp://@225.1.1.10:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 2
+udp://@225.1.1.12:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 3
+udp://@225.1.1.15:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 4
+udp://@225.1.1.27:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 5
+udp://@225.1.1.28:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 6
+udp://@225.1.1.31:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 7
+udp://@225.1.1.32:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 8
+udp://@225.1.1.33:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 9
+udp://@225.1.1.34:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 10
+udp://@225.1.1.34:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 11
+udp://@225.1.1.35:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 12
+udp://@225.1.1.37:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 13
+udp://@225.1.1.38:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 14
+udp://@225.1.1.68:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 15
+udp://@225.1.1.70:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 16
+udp://@225.1.1.71:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 17
+udp://@225.1.1.72:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 18
+udp://@225.1.1.92:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 19
+udp://@225.1.1.93:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 20
+udp://@225.1.1.94:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 21
+udp://@225.1.1.94:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 22
+udp://@225.1.1.95:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 23
+udp://@225.1.1.96:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 24
+udp://@225.1.1.97:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 25
+udp://@225.1.1.100:30120
+#EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",Event 26
+udp://@225.1.1.101:30120
+
+
+
