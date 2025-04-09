@@ -90,9 +90,9 @@ https://ottlive.sgchill.io.vn/v1/tv360.php?id=9869
 https://ottlive.sgchill.io.vn/v1/tv360.php?id=9870
 #EXTINF:-1 group-title="sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://ottlive.sgchill.io.vn/v1/tv360.php?id=9887
-#EXTINF:-1 tvg-id="tv360.Mekong" group-title="sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", MĂª KĂ´ng
+#EXTINF:-1 tvg-id="tv360.Mekong" group-title="sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", mê công 
 https://ottlive.sgchill.io.vn/v1/tv360.php?id=9901
-#EXTINF:-1 group-title="sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Ă‚u Má»¹
+#EXTINF:-1 group-title="sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim âu mỹ 
 https://ottlive.sgchill.io.vn/v1/tv360.php?id=9902
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
 https://truyenhinh.click/kcinehd
