@@ -102,17 +102,15 @@ https://ottlive.sgchill.io.vn/v1/tv360.php?id=9901
 #EXTINF:-1 group-title="sự kiện TV 360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim âu mỹ 
 https://ottlive.sgchill.io.vn/v1/tv360.php?id=9902
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
-https://truyenhinh.click/kcinehd
+http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
-https://truyenhinh.click/kactionhd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
-https://truyenhinh.click/ksport1hd
-https://byvn.net/ksport1
 http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
-https://truyenhinh.click/ksport2hd
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
-https://truyenhinh.click/kkidshd
+http://duthao2008.fastddns.org:9981/stream/channelid/471475672?profile=pass
 
 #EXTINF:0 tvg-id="" group-title="sự kiện FPT" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
