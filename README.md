@@ -107,6 +107,7 @@ http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
 http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
 http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
+http://1.53.80.163:8183/tvmp.php?play&id=vtv-kcine&type=playlist.m3u8&pass=nvtl
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
