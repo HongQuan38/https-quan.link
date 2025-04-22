@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF:-1 group-title="U17 Châu Á 2025" tvg-logo="https://static.bongda24h.vn/medias/original/2025/04/02/z6465356681609_e16a1b636f57989de6413dd26a7025f8-0204100747.jpg", U17 Châu Á 
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/5563
