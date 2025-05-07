@@ -1,4 +1,4 @@
-,#EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
+#EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -136,3 +136,5 @@ https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
 https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="Radio.HaTinh" group-title="🇻🇳 Vietnam Radio" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/Radio.HaTinh/Radio",Hà Tĩnh
+https://xem.TruyenHinh.Click/RadioVN/Radio.HaTinh/TuyetDoiKhongKinhDoanh.m3u8
