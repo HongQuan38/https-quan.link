@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTINF:-1 group-title="U17 Châu Á 2025" tvg-logo="https://static.bongda24h.vn/medias/original/2025/04/02/z6465356681609_e16a1b636f57989de6413dd26a7025f8-0204100747.jpg", U17 Châu Á 
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/5563
-#EXTINF:-1 group-title="U17 Châu Á 2025" tvg-logo="https://static.bongda24h.vn/medias/original/2025/04/02/nhan-dinh-bong-da-du-doan-u17-saudi-arabia-vs-u17-trung-quoc-hom-nay-0204064712.jpg", U17 Châu Á 
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305950
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -106,24 +102,15 @@ https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
-http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
-http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
-http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
-http://1.53.80.163:8183/tvmp.php?play&id=vtv-kcine&type=playlist.m3u8&pass=nvtl
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
-http://duthao2008.fastddns.org:9981/stream/channelid/471475672?profile=pass
+#EXTINF:-1 tvg-id="K+ Sport 1" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg?w=300",K+ Sport 1 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?protected=OOvv6tL5vaG%2BNv5KXcGIdxLTNZbeVxDAc5BIlTRKeqKIYgm2M7VzWp6UKMViW86D9RskpZF1AJwtU1e4MKnDuA%3D%3D&channel=ksport1
+#EXTINF:-1 tvg-id="K+ Sport 2" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpc_172771667492.jpg?w=300",K+ Sport 2 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?protected=IH1uQ%2FaXhMK1m4hN%2FhligQbGkZcE4d55f3tWpEbNDXnDu0UKpcE%2FHzucmDTQ55P1RHcxnOEZD9qibj9BicW2rQ%3D%3D&channel=ksport2
+#EXTINF:-1 tvg-id="K+ CINE" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg?w=300",K+ CINE #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?protected=WgEmFSyPvCpkIp2U8PZRccInBnl7P3T9%2FSEIESaq1hET%2BycSllzAaqeE%2Fmauitvy8Xzx%2Bw8s8LezxVhhb%2FtUdQ%3D%3D&channel=kcine
+#EXTINF:-1 tvg-id="K+ ACTION" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg?w=300",K+ ACTION #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?protected=leflvIRoYhxMW1GAAJexsf%2FaNoUnUdybwCYU1wJpIOBEvbAvNcTbbhx9GBC%2B3IRA4eMtNqxKmF%2ForW39jv0ZNA%3D%3D&channel=kaction
+#EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg?w=300",K+ KIDS #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?protected=J%2Bcu6zM7tquaCzlzULg0X7UE8lrtPmcHjx0XgLW11Q7otAZ1VY0TP8JT2jg2Kn4E5bX81on6M0mYuVrDO41LqQ%3D%3D&channel=kkids
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
 https://xem.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
 https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="qdnd" group-title="Sự kiện trực tiếp" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/qdnd/KenhCoBan",QĐND (Sự kiện trực tiếp)
-https://xem.TruyenHinh.Click/CoBan/qdnd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
 https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
