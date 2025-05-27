@@ -4,16 +4,15 @@
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
 http://p1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
-http://p1.cvtv.xyz/vtv3?token=live
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv3hd/KenhCoBan",VTV3 HD
+https://xem.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv3hd.fps" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv3hd.fps/KenhCoBan",VTV3 50fps
 https://xem.TruyenHinh.Click/CoBan/vtv3hd.fps/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV5_T%253Fy_Nguy%253Fn_ident_2016_no_logo.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv5hd/KenhCoBan",VTV5 HD
+https://xem.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv5hd.fps" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv5hd.fps/KenhCoBan",VTV5 50fps
 https://xem.TruyenHinh.Click/CoBan/vtv5hd.fps/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 Tây Nam Bộ
