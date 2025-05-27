@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
-http://p1.cvtv.xyz/vtv2?token=live
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv2hd/KenhCoBan",VTV2 HD
+https://xem.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv3hd/KenhCoBan",VTV3 HD
 https://xem.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv3hd.fps" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv3hd.fps/KenhCoBan",VTV3 50fps
@@ -133,4 +133,5 @@ https://xem.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
 https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="Thethaohd" group-title="HTV" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
+https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
