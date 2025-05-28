@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -33,8 +34,10 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="147" group-title="Kênh địa phương" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/147/KenhCoBan",Hà Tĩnh
 https://xem.TruyenHinh.Click/CoBan/147/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/267.png?ver=undefined", MyTV 801
 https://truyenhinh.click/mytv801
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/349.png?ver=undefined", MyTV 802 
@@ -43,8 +46,6 @@ https://truyenhinh.click/mytv802
 https://truyenhinh.click/mytv803
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện MYTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
 https://truyenhinh.click/mytv804
-
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 29
 
 #EXTINF:-1 tvg-id="on1" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON1.jpg", ON 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -93,18 +94,14 @@ https://xem.TruyenHinh.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk9" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk9/KenhCoBan-TV3602",TV360+ 9
 https://xem.TruyenHinh.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
-
 #EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.live/KenhCoBan",TV360 Live
 https://xem.TruyenHinh.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.Mekong/KenhCoBan",Mekong
 https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kcinehd/KenhBoSung",K+ Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kaction" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kaction/KenhBoSung",K+ Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
@@ -125,15 +122,33 @@ https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click
 #EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
 <br />
-<b>Warning</b>:  Undefined variable $content in <b>/www/wwwroot/xem.truyenhinh.click/Radio/index.php</b> on line <b>9</b><br />
+<b>Warning</b>:  Undefined variable $content in <b>/www/wwwroot/xem.truyenhinh.click/Radio/index.php</b> on line <b>9</b><br /
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
 https://xem.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
-https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8 
+
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
 https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
 https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="mutv" group-title="MUTV" logo="https://images.app.goo.gl/BEfTm
+#EXTINF:-1 tvg-id="mutv" group-title="MUTV 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 1 🔴
+https://rg.hoangducanh.site/live1
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 2 🔴
+https://rg.hoangducanh.site/live2
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 3 🔴
+https://rg.hoangducanh.site/live3
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 4 🔴
+https://rg.hoangducanh.site/live4
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 5 🔴
+https://rg.hoangducanh.site/live5
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 6 🔴
+https://rg.hoangducanh.site/live6
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 7 🔴
+https://rg.hoangducanh.site/live7
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://iptv.hoangducanh.site/logo.png",Live 8 🔴
+https://rg.hoangducanh.site/live8
