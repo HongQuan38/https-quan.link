@@ -156,3 +156,7 @@ https://rg.hoangducanh.site/live8
 
 #EXTINF:-1 group-title="Sự kiện TV360" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4+1
 https://sgchill.io.vn/360/2458/index.m3u8
+
+#EXTINF:-1 tvg-id="tv_asahi" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.truyenhinh.click/Logo/tv_asahi/DoiTac-BMT",TV Asahi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xem.TruyenHinh.Click/BMT/tv_asahi/DoiTac.m3u8
