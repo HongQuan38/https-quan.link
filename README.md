@@ -161,3 +161,23 @@ https://sgchill.io.vn/360/2458/index.m3u8
 #EXTINF:-1 tvg-id="tv_asahi" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.truyenhinh.click/Logo/tv_asahi/DoiTac-BMT",TV Asahi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xem.TruyenHinh.Click/BMT/tv_asahi/DoiTac.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click
+#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab3hd/KenhBoSung",ON Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click
+#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab18hd/KenhBoSung",ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
+#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab6hd/KenhBoSung",ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
+#EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.truyenhinh.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://truyenhinh.click/
+https://xem.TruyenHinh.Click/BoSung/hanoi2/TruyenHinh.Click
