@@ -125,15 +125,15 @@ https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
 <br />
 <b>Warning</b>:  Undefined variable $content in <b>/www/wwwroot/xem.truyenhinh.click/Radio/index.php</b> on line <b>9</b><br /
 
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/antvhd/KenhCoBan",ANTV
-https://xem.TruyenHinh.Click/CoBan/antvhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/qpvnhd/KenhCoBan",QPVN HD
-https://xem.TruyenHinh.Click/CoBan/qpvnhd/TuyetDoiKhongKinhDoanh.m3u8 
+#EXTINF:-1 tvg-id="antv" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/antv/KenhCoBan",ANTV
+https://xem.TruyenHinh.Click/CoBan/antv/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
+https://xem.TruyenHinh.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
 https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htvthethaohd/KenhCoBan",HTV Thể Thao
-https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv-the-thao" group-title="Kênh HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
+https://xem.TruyenHinh.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png",MUTV
 http://cord-cutter.net:8080/hq3y4G/234247/53717?checkedby:alliptvlinks.com
