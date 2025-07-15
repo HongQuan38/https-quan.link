@@ -5,6 +5,8 @@
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
 https://xem.TruyenHinh.Click/CoBan/vtv2-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv2-hd-thu-nghiem-quic" group-title="Kênh VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv2-hd-thu-nghiem-quic/KenhCoBan",VTV2 HD Thử nghiệm Quic
+https://xem.TruyenHinh.Click/CoBan/vtv2-hd-thu-nghiem-quic/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv3hd/KenhCoBan",VTV3 HD
 https://xem.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv3hd.fps" group-title="VTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/vtv3hd.fps/KenhCoBan",VTV3 50fps
