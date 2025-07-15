@@ -37,9 +37,8 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="147" group-title="Kênh địa phương" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/147/KenhCoBan",Hà Tĩnh
-https://xem.TruyenHinh.Click/CoBan/147/TuyetDoiKhongKinhDoanh.m3u8
-
+#EXTINF:-1 tvg-id="ha-tinh" group-title="Kênh địa phương" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ha-tinh/KenhCoBan",Hà Tĩnh
+https://xem.TruyenHinh.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/267.png?ver=undefined", MyTV 801
 https://truyenhinh.click/mytv801
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/349.png?ver=undefined", MyTV 802 
