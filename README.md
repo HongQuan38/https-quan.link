@@ -151,6 +151,8 @@ https://rg.hducanh.site/live5
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 6-Pool 🎱 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://rg.hducanh.site/live6
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 7-eSports 1 🎮
+https://rg.hducanh.site/live7
 
 #EXTINF:-1 group-title="Sự kiện TV360" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4+1
 https://sgchill.io.vn/360/2458/index.m3u8
