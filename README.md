@@ -142,6 +142,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/53717?checkedby:alliptvlinks.com
 https://rg.hducanh.site/live1
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 2 (UHD) ⚽️
 https://rg.hducanh.site/live2
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 3 ⚽️
+https://rg.hducanh.site/live3
 
 #EXTINF:-1 group-title="Sự kiện TV360" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4+1
 https://sgchill.io.vn/360/2458/index.m3u8
