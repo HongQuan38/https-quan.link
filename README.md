@@ -159,6 +159,12 @@ https://rg.hducanh.site/live8
 http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://i.postimg.cc/PxdJR3mH/z6780816311701-9ee278d9b353fd32bb6528fa7a729cd0-removebg-preview.png", Nino Channel 2
 http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel2/index.m3u8
+#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
+https://viettel.khanggtivi.xyz/live/kubolive/index.m3u8
+#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
+http://server.priterytivi.com/kubotv/index.m3u8
+#EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubocast.png?reload=1", KuboCast
+https://viettel.khanggtivi.xyz/live/kubocast/index.m3u8
 
 #EXTINF:-1 group-title="Sự kiện TV360" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4+1
 https://sgchill.io.vn/360/2458/index.m3u8
