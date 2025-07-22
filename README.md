@@ -157,6 +157,8 @@ https://rg.hducanh.site/live7
 https://rg.hducanh.site/live8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://i.postimg.cc/BQjyd2cP/z6715804416948-d8b271bcc98ae99ec672e7be7c84e70a-removebg-preview.png", Nino Channel 1
 http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://i.postimg.cc/PxdJR3mH/z6780816311701-9ee278d9b353fd32bb6528fa7a729cd0-removebg-preview.png", Nino Channel 2
+http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel2/index.m3u8
 
 #EXTINF:-1 group-title="Sự kiện TV360" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4+1
 https://sgchill.io.vn/360/2458/index.m3u8
