@@ -192,4 +192,5 @@ https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://truyenhinh.click/
 https://xem.TruyenHinh.Click/BoSung/hanoi2/TruyenHinh.Click
+#EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.truyenhinh.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
 http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
