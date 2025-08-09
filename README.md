@@ -48,34 +48,6 @@ https://truyenhinh.click/mytv803
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện MYTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
 https://truyenhinh.click/mytv804
 
-#EXTINF:-1 tvg-id="on1" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON1.jpg", ON 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT1/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on2" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON2.jpg", ON 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT2/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on3" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON3.jpg", ON 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT3/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on4" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON4.jpg", ON 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT4/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on5" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON5.jpg", ON 5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT5/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on6" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON6.jpg", ON 6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT6/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on7" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON7.jpg", ON 7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT7/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on8" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON8.jpg", ON 8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT8/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on9" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON9.jpg", ON 9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/ONSPORT9/sc-gaFEQQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="on10" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON10.jpg", ON 10
 #EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.live/KenhCoBan",TV360 Live
 https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv 360.Mekong" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
@@ -165,9 +137,6 @@ https://viettel.khanggtivi.xyz/live/kubolive/index.m3u8
 http://server.priterytivi.com/kubotv/index.m3u8
 #EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubocast.png?reload=1", KuboCast
 https://viettel.khanggtivi.xyz/live/kubocast/index.m3u8
-
-#EXTINF:-1 group-title="Sự kiện TV360" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/5db9e5a7d0fd_640_360.png", TV360+4+1
-https://sgchill.io.vn/360/2458/index.m3u8
 
 #EXTINF:-1 tvg-id="tv_asahi" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.truyenhinh.click/Logo/tv_asahi/DoiTac-BMT",TV Asahi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
