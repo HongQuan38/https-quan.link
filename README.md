@@ -84,7 +84,8 @@ https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="fm90" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm90/KenhCoBan",FM90(Kênh FM)
 https://xem.hoiquan.Click/CoBan/fm90/TuyetDoiKhongKinhDoanh.m3u8
-
+#EXTINF:-1 tvg-id="fm96" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm96/KenhCoBan",FM96(Kênh FM)
+https://xem.hoiquan.Click/CoBan/fm96/TuyetDoiKhongKinhDoanh.m3u8
 
 
 
