@@ -80,7 +80,8 @@ https://live2onsport.vtvcab.vn/onplus/ONSPORT9/sc-gaFEQQ/m20_index.m3u8
 https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
 https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
+https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 
 
 
