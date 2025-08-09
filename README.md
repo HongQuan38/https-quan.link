@@ -98,6 +98,13 @@ https://xem.hoiquan.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk6" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk6/KenhCoBan-TV3602",TV360+ 6
 https://xem.hoiquan.Click/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk7" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk7/KenhCoBan-TV3602",TV360+ 7
+https://xem.hoiquan.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk8" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk8/KenhCoBan-TV3602",TV360+ 8
+https://xem.hoiquan.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk9" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk9/KenhCoBan-TV3602",TV360+ 9
+https://xem.hoiquan.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
+
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kcinehd/KenhBoSung",K+ Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
