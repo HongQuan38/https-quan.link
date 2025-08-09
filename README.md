@@ -76,31 +76,16 @@ https://live2onsport.vtvcab.vn/onplus/ONSPORT8/sc-gaFEQQ/m20_index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/onplus/ONSPORT9/sc-gaFEQQ/m20_index.m3u8
 #EXTINF:-1 tvg-id="on10" group-title="Sự kiện ON" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ON10.jpg", ON 10
+#EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.live/KenhCoBan",TV360 Live
+https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
+https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 tvg-id="tv360.sk1" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk2" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk2/KenhCoBan-TV3602",TV360+ 2
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk3" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk3/KenhCoBan-TV3602",TV360+ 3
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk4" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk4/KenhCoBan-TV3602",TV360+ 4
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk5" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk5/KenhCoBan-TV3602",TV360+ 5
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk6" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk6/KenhCoBan-TV3602",TV360+ 6
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk7" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk7/KenhCoBan-TV3602",TV360+ 7
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk8" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk8/KenhCoBan-TV3602",TV360+ 8
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk9" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk9/KenhCoBan-TV3602",TV360+ 9
-https://xem.TruyenHinh.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.live/KenhCoBan",TV360 Live
-https://xem.TruyenHinh.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.Mekong" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.Mekong/KenhCoBan",Mekong
-https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện TV360" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
-https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kcinehd/KenhBoSung",K+ Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
