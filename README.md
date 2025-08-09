@@ -86,7 +86,10 @@ https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/fm90/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="fm96" group-title="Kênh FM" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/fm96/KenhCoBan",FM96(Kênh FM)
 https://xem.hoiquan.Click/CoBan/fm96/TuyetDoiKhongKinhDoanh.m3u8
-
+#EXTINF:-1 tvg-id="tv360.sk1" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
+https://xem.hoiquan.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tv360.sk2" group-title="Sự kiện trực tiếp" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk2/KenhCoBan-TV3602",TV360+ 2
+https://xem.hoiquan.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
 
 
 
