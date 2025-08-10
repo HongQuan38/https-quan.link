@@ -163,3 +163,6 @@ https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
 https://xem.hoiquan.Click/NguonOnliveTV/hanoi2/ToChaThangVThanh
 #EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.truyenhinh.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
 http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
