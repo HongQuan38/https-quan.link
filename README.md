@@ -166,3 +166,8 @@ http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/dautruongdanhvongmuadongvongbang13-09.jpg", Thể Thao 24
+https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/slider_1757575330339.jpg", Thể Thao 122
+https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/13/139t_1757703002301.jpg", Thể Thao 14
