@@ -63,10 +63,6 @@ https://xem.hoiquan.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
 https://xem.hoiquan.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
-https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv-the-thao" group-title="Kênh HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
-https://xem.TruyenHinh.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png",MUTV
 http://cord-cutter.net:8080/hq3y4G/234247/53717?checkedby:alliptvlinks.com
