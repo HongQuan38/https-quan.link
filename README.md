@@ -105,3 +105,5 @@ https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/slider_1757489915058.jpg", Thể Thao 141
 https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/thecongviettelvshanoi.jpg", Thể Thao 135
+https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
