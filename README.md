@@ -60,45 +60,7 @@ https://xem.hoiquan.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk3" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk3/KenhCoBan-TV3602",TV360+ 3
 https://xem.hoiquan.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk4" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk4/KenhCoBan-TV3602",TV360+ 4
-https://xem.hoiquan.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk5" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk5/KenhCoBan-TV3602",TV360+ 5
-https://xem.hoiquan.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk6" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk6/KenhCoBan-TV3602",TV360+ 6
-https://xem.hoiquan.Click/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk7" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk7/KenhCoBan-TV3602",TV360+ 7
-https://xem.hoiquan.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk8" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk8/KenhCoBan-TV3602",TV360+ 8
-https://xem.hoiquan.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk9" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk9/KenhCoBan-TV3602",TV360+ 9
-https://xem.hoiquan.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
 
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kcinehd/KenhBoSung",K+ Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kcinehd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kaction" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kaction/KenhBoSung",K+ Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kaction/TruyenHinh.Click
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ksport1hd/KenhBoSung",K+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/ksport1hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/ksport2hd/KenhBoSung",K+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/ksport2hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+ Copy" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/kkidshd/KenhBoSung",K+ Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/kkidshd/TruyenHinh.Click
-<br />
-<b>Warning</b>:  Undefined variable $content in <b>/www/wwwroot/xem.truyenhinh.click/Radio/index.php</b> on line <b>9</b><br /
-
-#EXTINF:-1 tvg-id="antv" group-title="Kênh thiết yếu" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/antv/KenhCoBan",ANTV
-https://xem.TruyenHinh.Click/CoBan/antv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
 https://xem.hoiquan.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv1/KenhCoBan",HTV1
@@ -109,53 +71,6 @@ https://xem.TruyenHinh.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png",MUTV
 http://cord-cutter.net:8080/hq3y4G/234247/53717?checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 1 🔴
-https://rg.hducanh.site/live1
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 2 (UHD) ⚽️
-https://rg.hducanh.site/live2
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 3 ⚽️
-https://rg.hducanh.site/live3
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 4-Bóng rổ 1 🏀
-https://rg.hducanh.site/live4
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 5-Bóng rổ 2 🏀
-https://rg.hducanh.site/live5
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 6-Pool 🎱 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rg.hducanh.site/live6
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 7-eSports 1 🎮
-https://rg.hducanh.site/live7
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://tv.hducanh.site/logo.png",Live 8-eSports 2 🎮
-https://rg.hducanh.site/live8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://i.postimg.cc/BQjyd2cP/z6715804416948-d8b271bcc98ae99ec672e7be7c84e70a-removebg-preview.png", Nino Channel 1
-http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://i.postimg.cc/PxdJR3mH/z6780816311701-9ee278d9b353fd32bb6528fa7a729cd0-removebg-preview.png", Nino Channel 2
-http://viettel.khanggtivi.xyz:8880/hls_nonkey/ninochannel2/index.m3u8
-#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 1
-https://viettel.khanggtivi.xyz/live/kubolive/index.m3u8
-#EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubolive-full.png", KuboLive #Server 2
-http://server.priterytivi.com/kubotv/index.m3u8
-#EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://iptv.khanggtivi.xyz/image/kubocast.png?reload=1", KuboCast
-https://viettel.khanggtivi.xyz/live/kubocast/index.m3u8
-
-#EXTINF:-1 tvg-id="tv_asahi" group-title="🔁 BMT.Nhật Bản" tvg-logo="https://xem.truyenhinh.click/Logo/tv_asahi/DoiTac-BMT",TV Asahi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xem.TruyenHinh.Click/BMT/tv_asahi/DoiTac.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab16hd/KenhBoSung",ON Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab3hd/KenhBoSung",ON Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab18hd/KenhBoSung",ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
-#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://xem.truyenhinh.click/Logo/vtvcab6hd/KenhBoSung",ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.hoiquan.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
