@@ -95,3 +95,5 @@ https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/vong3live-bmw-pga-championship-2025---dp-world-tour-2025-slider-thumb_1757476870372.jpg", Thể Thao 136
 https://live.fptplay53.net/fnxch1/thethao136_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/daihocvanhienvsbacninh.jpg", Thể Thao 121
+https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
