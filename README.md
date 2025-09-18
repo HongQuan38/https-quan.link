@@ -116,3 +116,11 @@ https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/slider_1757489915058.jpg", Thể Thao 141
 https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",SPORT 1
+http://khaitv.giize.com:18484/stream/vtvprime/k1/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",SPORT 2
+http://khaitv.giize.com:18484/stream/vtvprime/k2/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",ACTION
+http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",CINE
+http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
