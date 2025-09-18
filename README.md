@@ -80,33 +80,39 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/149_1757524214151.jpg", Thể Thao 3
 https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/dautruongdanhvongmuadongvongbang13-09.jpg", Thể Thao 24
-https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/slider_1757575330339.jpg", Thể Thao 122
-https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/13/139t_1757703002301.jpg", Thể Thao 14
-https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/tft13_1757569778159.jpg", Thể Thao 17
-https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/13t_1757530061256.jpg", Thể Thao 25
-https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/slider_1757575154991.jpg", Thể Thao 123
-https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/slider_1757489487641.jpg", Thể Thao 140
-https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/vong3live-bmw-pga-championship-2025---dp-world-tour-2025-slider-thumb_1757476870372.jpg", Thể Thao 136
-https://live.fptplay53.net/fnxch1/thethao136_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/daihocvanhienvsbacninh.jpg", Thể Thao 121
-https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LCP2025vongplayoffngay14-09-2025.jpg", Thể Thao 6
-https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/dautruongchanlycupchienthuat1ngay14-09-2025.jpg", Thể Thao 4
 https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LCP2025vongplayoffngay14-09-2025.jpg", Thể Thao 6
+https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/14t_1757530230227.jpg", Thể Thao 10
 https://live.fptplay53.net/epzsport/thethao10_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/slider_1757489915058.jpg", Thể Thao 141
-https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/thecongviettelvshanoi.jpg", Thể Thao 135
-https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/13/139t_1757703002301.jpg", Thể Thao 14
+https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/18/live-giai-bong-ro-5x5-u23-quoc-gia-2025-slide-thumb_1758161338068.jpg", Thể Thao 15
 https://live.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/tft13_1757569778159.jpg", Thể Thao 17
+https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/dautruongdanhvongmuadongvongbang13-09.jpg", Thể Thao 24
+https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/13t_1757530061256.jpg", Thể Thao 25
+https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/daihocvanhienvsbacninh.jpg", Thể Thao 121
+https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/slider_1757575330339.jpg", Thể Thao 122
+https://live.fptplay53.net/epzch1/thethao122_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/slider_1757575154991.jpg", Thể Thao 123
+https://live.fptplay53.net/epzch1/thethao123_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/thecongviettelvshanoi.jpg", Thể Thao 135
+https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/vong3live-bmw-pga-championship-2025---dp-world-tour-2025-slider-thumb_1757476870372.jpg", Thể Thao 136
+https://live.fptplay53.net/fnxch1/thethao136_mx.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/slider_1757489487641.jpg", Thể Thao 140
+https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
+
+
+ 
+
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/10/slider_1757489915058.jpg", Thể Thao 141
+https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
