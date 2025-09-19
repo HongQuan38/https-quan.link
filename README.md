@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml.gz
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO" tvg-logo="https://share.google/ki1qAo65nag1aoy56", Bắc Kinh Quốc An vs Công An Hà Nội
+#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Bắc Kinh Quốc An vs Công An Hà Nội
 http://filex.me:8080//live/drzain/002808/318168.ts
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
