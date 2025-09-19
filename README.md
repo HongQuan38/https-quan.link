@@ -82,6 +82,8 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/dautruongchanlycupchienthuat1ngay14-09-2025.jpg", Thể Thao 4
 https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/18/19_1758130115003.jpg", Thể Thao 5
+https://live.fptplay53.net/epzch1/thethao05_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LCP2025vongplayoffngay14-09-2025.jpg", Thể Thao 6
 https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/09/11/14t_1757530230227.jpg", Thể Thao 10
