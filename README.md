@@ -1,6 +1,5 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml.gz
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
-http://filex.me:8080//live/drzain/002808/318168.ts
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -126,3 +125,5 @@ http://khaitv.giize.com:18484/stream/vtvprime/k2/master.m3u8?u=admin&p=bd8dc3e43
 http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",CINE
 http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
+#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
+http://filex.me:8080//live/drzain/002808/318168.ts
