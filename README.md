@@ -76,6 +76,8 @@ http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/06/04/icon_channel_the-thao-test-1_174900434903.jpg", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 2
+https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 3
 https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8
