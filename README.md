@@ -153,3 +153,6 @@ http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e
 
 #EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
 http://filex.me:8080//live/drzain/002808/318168.ts
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 3
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
