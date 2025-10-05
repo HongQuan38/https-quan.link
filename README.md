@@ -140,6 +140,9 @@ https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 141
 https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 243
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/NDEyMTExMzl8dGhldGhhbzI0My11aGR8dm5wdHwxNzU5NjQ4MDgyfDE0LjE4OS40Mi4yNDJ8YzhmY2QwNjk1MDE3YTg2NWExMTIwNjNlNTQ2NTc1YzE/channel/thethao243-uhd/playlist_avc_1080p-avc.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 261
 https://live.fptplay53.net/fnxch1/thethao261_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",SPORT 1
@@ -153,6 +156,3 @@ http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e
 
 #EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
 http://filex.me:8080//live/drzain/002808/318168.ts
-#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 3
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8
