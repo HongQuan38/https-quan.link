@@ -140,7 +140,7 @@ https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 141
 https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 243
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", FPT The Thao 243
 #EXTVLCOPT:http-user-agent=dovietsy
 https://vips-livecdn.fptplay.net/NDEyMTExMzl8dGhldGhhbzI0My11aGR8dm5wdHwxNzU5NjQ4MDgyfDE0LjE4OS40Mi4yNDJ8YzhmY2QwNjk1MDE3YTg2NWExMTIwNjNlNTQ2NTc1YzE/channel/thethao243-uhd/playlist_avc_1080p-avc.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 261
