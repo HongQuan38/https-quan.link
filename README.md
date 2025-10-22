@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=",https://vnepg.site/epg.xml.gz
+#EXTM3U url-tvg=",https://vnepg.site/epg.xml
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
