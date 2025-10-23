@@ -156,6 +156,8 @@ http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e
 
 #EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
 http://filex.me:8080//live/drzain/002808/318168.ts
+#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_CAHN_Macarthur_APP.png&orientation=landscape&w=704&h=396", Công An Hà Nội vs MACARTHUR
+https://ace.hoiquan.click/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
 
 #EXTINF:-1 tvg-id="ksport1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport1hd/KenhBoSung",K+ Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
