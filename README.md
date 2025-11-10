@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml
 
 
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO 2025/2026" tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_NamDinh_GambaOsaka_APP.png&orientation=landscape&w=704&h=396", Thép Xanh Nam Định vs Gamba Osaka
+#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_NamDinh_GambaOsaka_APP.png&orientation=landscape&w=704&h=396", Thép Xanh Nam Định vs Gamba Osaka
 http://14.172.129.72:12343/rtp/232.84.1.125:10326
 
 #EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
@@ -155,21 +155,6 @@ https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
 https://vips-livecdn.fptplay.net/NDEyMTExMzl8dGhldGhhbzI0My11aGR8dm5wdHwxNzU5NjQ4MDgyfDE0LjE4OS40Mi4yNDJ8YzhmY2QwNjk1MDE3YTg2NWExMTIwNjNlNTQ2NTc1YzE/channel/thethao243-uhd/playlist_avc_1080p-avc.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 261
 https://live.fptplay53.net/fnxch1/thethao261_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",SPORT 1
-http://khaitv.giize.com:18484/stream/vtvprime/k1/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",SPORT 2
-http://khaitv.giize.com:18484/stream/vtvprime/k2/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",ACTION
-http://khaitv.giize.com:18484/stream/vtvprime/action/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
-#EXTINF:0 group-title="Kênh TH Thiết yếu" tvg-logo="https://ch.rkcdn.xyz/img/caheo.png",CINE
-http://khaitv.giize.com:18484/stream/vtvprime/cine/master.m3u8?u=admin&p=bd8dc3e43a1a157595a8b01fbf44705160edeb0c08842d97d651cd2b37bf6262
 
 #EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
 http://filex.me:8080//live/drzain/002808/318168.ts
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://img.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_CAHN_Macarthur_APP.png&orientation=landscape&w=704&h=396", Công An Hà Nội vs MACARTHUR
-https://ace.hoiquan.click/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
-
-#EXTINF:-1 tvg-id="ksport1hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="K+ Copy" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ksport1hd/KenhBoSung",K+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/ksport1hd/ToChaThangVThanh
