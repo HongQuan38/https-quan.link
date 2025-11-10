@@ -58,21 +58,6 @@ https://truyenhinh.click/mytv803
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện MYTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
 https://truyenhinh.click/mytv804
 
-#EXTINF:-1 tvg-id="tv360.live" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.live/KenhCoBan",TV360 Live
-https://xem.hoiquan.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv 360.Mekong" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.Mekong/KenhCoBan",Mekong
-https://xem.hoiquan.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.PhimAuMy/KenhCoBan",Phim Âu Mỹ
-https://xem.hoiquan.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk1" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
-https://xem.hoiquan.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk2" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk2/KenhCoBan-TV3602",TV360+ 2
-https://xem.hoiquan.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="tv360.sk3" group-title="Sự kiện TV 360" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/tv360.sk3/KenhCoBan-TV3602",TV360+ 3
-https://xem.hoiquan.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
-
-#EXTINF:-1 tvg-id="qpvn-hd" group-title="Kênh thiết yếu" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/qpvn-hd/KenhCoBan",QPVN HD
-https://xem.hoiquan.Click/CoBan/qpvn-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png",MUTV
 http://cord-cutter.net:8080/hq3y4G/234247/53717?checkedby:alliptvlinks.com
@@ -138,6 +123,8 @@ https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 136
 https://live.fptplay53.net/fnxch1/thethao136_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 137
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/06/slider_1762417896958.jpg", Thể Thao 138
+https://live.fptplay53.net/fnxch1/thethao138_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 139
 https://live.fptplay53.net/fnxch1/thethao139_mx.smil/chunklist_b6000000.m3u8
