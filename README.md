@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml
 
 
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest?cb=20240330042538&path-prefix=vi&orientation=landscape&w=704&h=396", K+SPORT 1
+#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest?cb=20240330042538&path-prefix=vi", K+SPORT 1
 http://14.172.129.72:12343/rtp/232.84.1.125:10326
 
 #EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
