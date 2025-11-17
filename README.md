@@ -163,3 +163,24 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="ksport1hd"  tvg-logo="",K+ Sport 1 HD
+http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
+
+#EXTINF:0 tvg-id="ksport2hd"  tvg-logo="",K+ Sport 2 HD
+http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
+
+
+#EXTINF:0 tvg-id="kcinehd"  tvg-logo="",K+ Cine HD
+http://luizkun.duckdns.org:63213/rtp/232.84.1.122:10314 
+
+#EXTINF:0 tvg-id="kactionhd" tvg-logo="",K+ Action HD
+http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
+
+
+
+#EXTINF:0 tvg-id="kkidshd"  tvg-logo="",K+ Kids HD
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kkidshd/ToChaThangVThanh
+
+
+EXTINF:-1 tvg-id="thoitiet" tvg-logo="",K+ Thời Tiết
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/thoitiet/ToChaThangVThanh
