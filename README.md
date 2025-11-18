@@ -182,5 +182,8 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kkidshd/ToChaThangVThanh
 
 
+#EXTINF:-1 group-title="Phim" tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg", Mưa Đỏ
+https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
+
 EXTINF:-1 tvg-id="thoitiet" tvg-logo="",K+ Thời Tiết
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/thoitiet/ToChaThangVThanh
