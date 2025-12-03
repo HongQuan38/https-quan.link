@@ -1,7 +1,5 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml
 
-EXTINF:-1 group-title="Livestream" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2025/11/28/slider_1764327775280.jpg", Thể Thao 137
-https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg", K+SPORT 1
 http://14.172.129.72:12343/rtp/232.84.1.125:10326
 
@@ -130,6 +128,8 @@ https://live.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 136
 https://live.fptplay53.net/fnxch1/thethao136_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 137
+https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 138
 https://live.fptplay53.net/fnxch1/thethao138_mx.smil/chunklist_b6000000.m3u8
 https://live.fptplay53.net/fnxch1/thethao137_mx.smil/chunklist_b6000000.m3u8
