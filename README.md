@@ -56,6 +56,8 @@ https://truyenhinh.click/mytv802
 https://truyenhinh.click/mytv803
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện MYTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
 https://truyenhinh.click/mytv804
+#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/345x194/8a/a0/02/29/91/1b/8a029-lbrackleytownburtonalbionlivefacup1920x10804bb10jpg-content-mytv.jpg", Brackley Town vs Burton
+http://khaitv.giize.com:1979/mytv/new/get.php?id=267
 
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png",MUTV
