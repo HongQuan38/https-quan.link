@@ -48,15 +48,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo và PTTH Hà Tĩnh
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=58&token=2025
 
-#EXTINF:-1 tvg-name="801" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/267.png?ver=undefined", MyTV 801
-https://truyenhinh.click/mytv801
-#EXTINF:-1 tvg-name="802" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/349.png?ver=undefined", MyTV 802 
-https://truyenhinh.click/mytv802
-#EXTINF:-1 tvg-name="803" group-title="Sự kiện MYTV" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/447.png?ver=undefined", MyTV 803 
-https://truyenhinh.click/mytv803
-#EXTINF:-1 tvg-name="804" group-title="Sự kiện MYTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 
-https://truyenhinh.click/mytv804
-#EXTINF:-1 group-title="FA CUP 2025/2026" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/345x194/8a/a0/02/29/91/1b/8a029-lbrackleytownburtonalbionlivefacup1920x10804bb10jpg-content-mytv.jpg", Brackley Town vs Burton
+#EXTINF:-1 group-title="Sự kiện MYTV" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/345x194/8a/a0/02/29/91/1b/8a029-lbrackleytownburtonalbionlivefacup1920x10804bb10jpg-content-mytv.jpg", MyTV 804
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
 
 
@@ -146,11 +138,12 @@ https://live.fptplay53.net/fnxch1/thethao140_mx.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 141
 https://live.fptplay53.net/fnxch1/thethao141_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 250
-https://live.fptplay53.net/epzch1/thethao250_mx.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", The Thao 243
 #EXTVLCOPT:http-user-agent=dovietsy
 https://vips-livecdn.fptplay.net/NDEyMTExMzl8dGhldGhhbzI0My11aGR8dm5wdHwxNzU5NjQ4MDgyfDE0LjE4OS40Mi4yNDJ8YzhmY2QwNjk1MDE3YTg2NWExMTIwNjNlNTQ2NTc1YzE/channel/thethao243-uhd/playlist_avc_1080p-avc.m3u8
+#EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 250
+https://live.fptplay53.net/epzch1/thethao250_mx.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 261
 https://live.fptplay53.net/fnxch1/thethao261_mx.smil/chunklist_b6000000.m3u8
 
@@ -166,27 +159,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="ksport1hd"  tvg-logo="",K+ Sport 1 HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.37:8196
-
-#EXTINF:0 tvg-id="ksport2hd"  tvg-logo="",K+ Sport 2 HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.34:8178
-
-
-#EXTINF:0 tvg-id="kcinehd"  tvg-logo="",K+ Cine HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.122:10314 
-
-#EXTINF:0 tvg-id="kactionhd" tvg-logo="",K+ Action HD
-http://luizkun.duckdns.org:63213/rtp/232.84.1.33:8172
 
 
 
-#EXTINF:0 tvg-id="kkidshd"  tvg-logo="",K+ Kids HD
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/kkidshd/ToChaThangVThanh
 
 
-#EXTINF:-1 group-title="Phim" tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg", Mưa Đỏ
-https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 
-EXTINF:-1 tvg-id="thoitiet" tvg-logo="",K+ Thời Tiết
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/thoitiet/ToChaThangVThanh
+
+
