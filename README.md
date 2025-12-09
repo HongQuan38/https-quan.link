@@ -46,7 +46,7 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo và PTTH Hà Tĩnh
-https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=58&token=2025
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 
 #EXTINF:-1 group-title="Sự kiện MYTV" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/345x194/8a/a0/02/29/91/1b/8a029-lbrackleytownburtonalbionlivefacup1920x10804bb10jpg-content-mytv.jpg", MyTV 804
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
