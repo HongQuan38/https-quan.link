@@ -51,16 +51,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 group-title="Sự kiện MYTV" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/345x194/8a/a0/02/29/91/1b/8a029-lbrackleytownburtonalbionlivefacup1920x10804bb10jpg-content-mytv.jpg", MyTV 804
 http://khaitv.giize.com:1979/mytv/new/get.php?id=267
 
-
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://m.media-amazon.com/images/I/61rrCc7UQAL.png",MUTV
-http://cord-cutter.net:8080/hq3y4G/234247/53717?checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.hoiquan.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://xem.hoiquan.Click/NguonOnliveTV/hanoi2/ToChaThangVThanh
-#EXTINF:-1 tvg-id="hanoi2" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh địa phương" tvg-logo="https://xem.truyenhinh.click/Logo/hanoi2/KenhBoSung",Hà Nội 2 4K
-http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/06/04/icon_channel_the-thao-test-1_174900434903.jpg", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
