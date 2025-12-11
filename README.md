@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg", K+SPORT 1
 http://14.172.129.72:12343/rtp/232.84.1.125:10326
-
+#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO 2025/2026" tvg-logo="https://img4.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_TaiPo_CAHN_APP.png&orientation=landscape&w=704&h=396", Taipo vs Công An Hà Nội
 https://rblive.starxcdn.xyz/live/6908bda8bb43a99996b06469_23xmvkh6xl2jqg8_football_fhd.flv
 
 #EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
