@@ -98,7 +98,7 @@ https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
 https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 109
-https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1762767353-sign-0-aa7c2ac6ac2f783a0dbc276b21663c3d
+https://event.fptplay53.net/channel/thethao109/master_mx.m3u8?sign=1765438311-sign-0-50478ee7fe094cfb0b671a9d1470031f
 
 #EXTINF:-1 group-title="sự kiện FPT" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Thể Thao 121
 https://live.fptplay53.net/epzch1/thethao121_mx.smil/chunklist_b6000000.m3u8
