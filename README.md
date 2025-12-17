@@ -1,15 +1,5 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml
 
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg", K+SPORT 1
-http://14.172.129.72:12343/rtp/232.84.1.125:10326
-
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE TWO 2025/2026" tvg-logo="https://img4.kplus.vn/images?filename=media%2Fchannels%2Fsg%2Fnavasset%2FACLTwo_TaiPo_CAHN_APP.png&orientation=landscape&w=704&h=396", Taipo vs Công An Hà Nội
-https://rblive.starxcdn.xyz/live/6908bda8bb43a99996b06469_23xmvkh6xl2jqg8_football_fhd.flv
-
-#EXTINF:-1 tvg-id="sgevents" group-title="SG Network" group-logo="https://resources.cdn.sgchill.io.vn/images/main.png" tvg-logo="https://resources.cdn.sgchill.io.vn/images/main.png",SGEvents
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
-https://akaviettel.sgchill.io.vn/v1/stream/twitch/channel/sgevents.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -50,9 +40,6 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo và PTTH Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
-
-#EXTINF:-1 group-title="Sự kiện MYTV" tvg-logo="https://s12812.cdn.mytvnet.vn/vimages/345x194/8a/a0/02/29/91/1b/8a029-lbrackleytownburtonalbionlivefacup1920x10804bb10jpg-content-mytv.jpg", MyTV 804
-http://khaitv.giize.com:1979/mytv/new/get.php?id=267
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/06/04/icon_channel_the-thao-test-1_174900434903.jpg", Hà Nội 2 UHD - Đài Hà Nội
 #EXTVLCOPT:http-user-agent=VMTTV
