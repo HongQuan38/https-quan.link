@@ -1,4 +1,6 @@
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml
+#EXTM3U url-tvg="https://live.qphim.xyz/epg.xml"
+#EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -161,6 +163,12 @@ https://delivery.04.sgchill.io.vn/v1/channel/nokey/twitch/sgnetwork.smil/index.m
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubocast.png", KuboCast
 http://live.qphim.xyz/live/kubocast/index.m3u8
+#EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
+http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
+#EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
+http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
+#EXTINF:-1 tvg-id="oni1" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
+https://onnanetwork.xyz/1.org.vn/oni1/?/index.m3u8
 
 #EXTINF:-1 group-title="phim" tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg", Mưa Đỏ
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
