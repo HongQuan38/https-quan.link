@@ -1,3 +1,10 @@
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/01/27/slider_1769502346402.jpg, Sự Kiện 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/01/27/slider_1769502555771.jpg", Sự Kiện 3
+https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/01/27/slider_1769502664818.jpg", Sự Kiện 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+
 #EXTM3U url-tvg=",https://vnepg.site/epg.xml
 #EXTM3U url-tvg="https://live.qphim.xyz/epg.xml"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
