@@ -1,6 +1,7 @@
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
