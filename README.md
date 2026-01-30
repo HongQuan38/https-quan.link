@@ -64,8 +64,6 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
 
 
-#EXTINF:-1 group-title="AFC CHAMPIONS LEAGUE " tvg-logo="https://nstatic.nova.bg/public/pics/anysize/1678282749.png", nova sports 
-http://filex.me:8080//live/drzain/002808/318168.ts
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
 https://freem3u.xyz/api/live/play.m3u8?vid=190
@@ -79,27 +77,25 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="http://resources.sgchill.io.vn/images/main.png" tvg-logo="http://resources.sgchill.io.vn/images/main.png",SG Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
-https://delivery.04.sgchill.io.vn/v1/channel/nokey/twitch/sgnetwork.smil/index.m3u8
+
 #EXTINF:-1 tvg-id="kubolive" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png" catchup-type="append" catchup-days="5" catchup-source="?t=${start}&d=${offset}", KuboLive #Server 1
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 tvg-id="kubocast" group-title="Kubo Network" tvg-logo="https://ip1.qphim.xyz/image/kubocast.png", KuboCast
 http://live.qphim.xyz/live/kubocast/index.m3u8
+#EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="https://devonlynino.github.io/assets/images/main.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SG Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://sgchill.io.vn/v1/tw?id=devonlynino
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel
-http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
+https://sgchill.io.vn/v1/tw?id=ninochannel12
 #EXTINF:-1 group-title="NINO NETWORK" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel2.jpg", Nino Channel 2
 http://live.qphim.xyz/hls_nonkey/ninochannel2/index.m3u8
-#EXTINF:-1 tvg-id="oni1" group-title="ONNA Network" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
-https://onnanetwork.xyz/1.org.vn/oni1/?/index.m3u8
-
-#EXTINF:-1 group-title="phim" tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg", Mưa Đỏ
-https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/lvtt.jpg", LVTT
+http://live.qphim.xyz:8880/hls_nonkey/lvtt/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV1_HD.png", ATV HD
+https://live.qphim.xyz/live/atv/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
+https://1.org.vn/oni1/?/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni2.png", ONi2
+https://sgchill.io.vn/v1/tw?id=nnt1709
 
 
