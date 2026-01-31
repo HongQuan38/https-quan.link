@@ -29,6 +29,7 @@ https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 
